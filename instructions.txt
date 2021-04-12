@@ -1,0 +1,37 @@
+
+*Data*
+
+Attached is a dataset of car fuel economy data. It comes from https://www.fueleconomy.gov/feg/download.shtml.
+
+The particular file is https://www.fueleconomy.gov/feg/epadata/vehicles.csv.zip "Datasets for All Model Years (1984–2019)”
+
+The data dictionary is here: https://www.fueleconomy.gov/feg/ws/index.shtml#vehicle
+
+*Question*
+
+1. Which manufacturer produces the most fuel efficient fleet of cars?
+
+2. Build a model to predict city mpg (variable “UCity” in column BG).
+
+3. How has fuel economy changed over time? Are there any other interesting insights or trends?
+
+
+As well as a complete model for UCity with code, we are looking for a coherent data-story that examines UCity 
+as well one or more aspects of the data such as the evolution of a car manufacturer(s), engine types, future mpg. 
+It is up to you. This is a deliberately open-ended question that provides a chance to showcase your EDA, analysis, and presentation skills.
+
+The expectations is that you should spend no more than 3-4 hours on this task.
+
+*Format*
+We are willing to accept a variety for formats---most people submit a Jupyter notebook---but
+we do want to see your code and we do want to see the plots and charts you used or wish to present.
+Note the use of "data-story" above.
+
+Therefore, please don't require the hiring manager to install packages or run code to see 
+the output you want us to see. That is, please submit one or more self-contained files (such 
+as Jupyter notebook, HTML webpage, PDF, Python source files only if accompanied with some other 
+docs to show the plots and commentary) that the hiring manager can simply open and read your work.
+
+Good luck!
+
+Carl Anderson
